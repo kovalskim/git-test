@@ -1,0 +1,1 @@
+Toto je nejlepsi readme ever
